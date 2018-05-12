@@ -1,5 +1,8 @@
 _repo: The-Land-of-Deepening-Shadow--Germany-at-War_12418
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Curtin, D. Thomas (Daniel Thomas)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4355'
     url: http://www.gutenberg.org/2009/agents/4355
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12418#The-Land-of-Deepening-Shadow--Germany-at-War
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - Germany
